@@ -1,4 +1,4 @@
-# Romaproject
+# Acrostia
 
 ## Introduction
 This project containing static pages written with html, css and javascript.
